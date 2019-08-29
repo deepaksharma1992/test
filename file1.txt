@@ -3,4 +3,9 @@ Hello 1st commit
 3rd commit
 
 Branch 1st commit
+
 Branch2 commit
+
+
+Changes in master in context of branch 2
+
